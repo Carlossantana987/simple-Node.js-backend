@@ -1,0 +1,28 @@
+{
+  "name": "simple-node.js-backend",
+  "version": "1.0.0",
+  "description": "a simple Node.js RESTful API Project",
+  "main": "src/server",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.10",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.19.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carlossantana987/simple-node.js-backend.git"
+  },
+  "author": "Carlos Santana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carlossantana987/simple-node.js-backend/issues"
+  },
+  "homepage": "https://github.com/Carlossantana987/simple-node.js-backend#readme"
+}
