@@ -4,8 +4,8 @@
   "description": "a simple Node.js RESTful API Project",
   "main": "src/server",
   "dependencies": {
-    "body-parser": "^1.19.0",
-    "express": "^4.17.1",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
     "mongoose": "^5.6.10",
     "morgan": "^1.9.1",
     "nodemon": "^1.19.1"
